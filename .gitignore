@@ -211,6 +211,8 @@ pip-selfcheck.json
 
 .DS_STORE/
 
+.idea/
+
 .idea/algorithms.iml
 .idea/misc.xml
 .idea/modules.xml
