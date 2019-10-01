@@ -209,3 +209,9 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 
+.DS_STORE/
+
+.idea/algorithms.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
